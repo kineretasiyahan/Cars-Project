@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(201, 199, 199);
+    color: rgb(87, 86, 86);
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+h1{
+    
+    text-align: center;
+}
+form{
+    display: flex;
+align-items: center;
+flex-direction: column;
+text-align: center;
+font-size: medium;
+}
+
+#Btn{
+margin: 5px;
+margin-left: 48vw;
+
+}
+#tableCar{
+ margin-left: 35vw;
+ text-align: center;
+
+}
+img{
+    margin: 15px;
+    padding: 2px;
+    border: 5px solid white;
+}
+th,td{
+    border: 2px solid white;
+}
